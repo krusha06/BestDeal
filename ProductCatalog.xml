@@ -1,0 +1,567 @@
+<ProductCatalog>
+	<ConsoleCatalog>	
+		
+		<TV id="Intex">
+            <name>Intex</name>
+            <price>499</price>
+			<image>images/intex.png</image> 
+			<manufacturer>Intex</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>RemoteControl</accessory>
+			</accessories>
+         </TV>
+		 
+		 <TV id="Samsung">
+            <name>Samsung</name>
+            <price>599</price>
+			<image>images/Samsung.png</image> 
+			<manufacturer>Samsung</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>RemoteControl</accessory>
+			</accessories>
+         </TV>
+		 
+		 <TV id="Singer">
+            <name>Singer</name>
+            <price>499</price>
+			<image>images/singer.png</image> 
+			<manufacturer>Singer</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>RemoteControl</accessory>
+			</accessories>
+         </TV>
+		 
+		 <TV id="Nexus">
+            <name>Nexus</name>
+            <price>599</price>
+			<image>images/nexus.png</image> 
+			<manufacturer>Nexus</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>RemoteControl</accessory>
+			</accessories>
+         </TV>
+		 
+		 <TV id="Vivax">
+            <name>Vivax</name>
+            <price>549</price>
+			<image>images/vivax.png</image> 
+			<manufacturer>Vivax</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>RemoteControl</accessory>
+			</accessories>
+         </TV>
+		 
+		 <SoundSystems id="Bose"> 
+			<name>Bose</name> 
+			<price>399.99</price> 
+			<image>images/Bose.jpg</image> 
+			<manufacturer>Bose</manufacturer>
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories> 
+				<accessory>LaptopCover</accessory> 
+				<accessory>ToolKit</accessory> 
+			</accessories> 
+		</SoundSystems>
+		<SoundSystems id="Sony">
+			<name>SONY</name> 
+			<price>349.99</price>
+			<image>images/sony1.jpg</image> 
+			<manufacturer>Sony</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories> 
+				<accessory>LaptopCover</accessory> 
+				<accessory>ToolKit</accessory> 
+			</accessories>
+		</SoundSystems>
+		<SoundSystems id="Polk">
+                        <name>Polk</name>
+                        <price>400</price>
+			<image>images/logi.png</image> 
+			<manufacturer>Polk</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories> 
+				<accessory>LaptopCover</accessory> 
+				<accessory>ToolKit</accessory> 
+			</accessories>
+        </SoundSystems>
+        <SoundSystems id="KEF">
+            <name>KEF</name>
+            <price>320.19</price>
+			<image>images/delender.png</image> 
+			<manufacturer>KEF</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories> 
+				<accessory>LaptopCover</accessory> 
+				<accessory>ToolKit</accessory> 
+			</accessories>
+        </SoundSystems>
+		<SoundSystems id="hp">
+            <name>hp</name>
+            <price>410</price>
+			<image>images/hp.jpg</image> 
+			<manufacturer>hp</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories> 
+				<accessory>LaptopCover</accessory> 
+				<accessory>ToolKit</accessory> 
+			</accessories>
+         </SoundSystems>
+               
+		<Phone id="Nokia">
+            <name>Nokia</name>
+                        <price>250</price>
+			<image>images/Nokia.jpg</image> 
+			<manufacturer>Nokia</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+                               <accessory>Nokia_A</accessory>
+                               <accessory>Nokia_B</accessory>
+                        </accessories>
+                 </Phone>
+                 <Phone id="Motorola">
+                        <name>Motorola</name>
+                        <price>400</price>
+			<image>images/Motorola.jpg</image> 
+			<manufacturer>Motorola</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+                               <accessory>Motorola_A</accessory>
+                               <accessory>Motorola_B</accessory>
+                        </accessories>
+                 </Phone>
+                 <Phone id="HTC">
+                        <name>HTC</name>
+                        <price>380</price>
+			<image>images/HTC.jpg</image> 
+			<manufacturer>HTC</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+                               <accessory>HTC_A</accessory>
+                               <accessory>HTC_B</accessory>
+                        </accessories>
+                 </Phone>
+                 <Phone id="OPPO">
+                        <name>OPPO</name>
+                        <price>320</price>
+			<image>images/OPPO.jpg</image> 
+			<manufacturer>OPPO</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+                               <accessory>OPPO_A</accessory>
+                               <accessory>OPPO_B</accessory>
+                        </accessories>
+                 </Phone>
+                 <Phone id="Vivo">
+                        <name>Vivo</name>
+                        <price>520</price>
+			<image>images/Vivo.jpg</image> 
+			<manufacturer>Vivo</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+                               <accessory>Vivo_A</accessory>
+                               <accessory>Vivo_B</accessory>
+                        </accessories>
+                 </Phone>
+			
+		<Laptop id="Dell">
+                        <name>Dell</name>
+                        <price>580</price>
+			<image>images/Dell.jpg</image> 
+			<manufacturer>Dell</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+                <accessory>LaptopCover</accessory> 
+				<accessory>ToolKit</accessory> 
+				<accessory>Pioneer</accessory>
+				<accessory>Seagate</accessory>
+            </accessories>
+        </Laptop>
+		
+        <Laptop id="Acer">
+                        <name>Acer</name>
+                        <price>460</price>
+			<image>images/Acer.jpg</image> 
+			<manufacturer>Acer</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+                <accessory>LaptopCover</accessory> 
+            </accessories>
+        </Laptop>
+        
+		<Laptop id="Asus">
+                        <name>Asus</name>
+                        <price>370</price>
+			<image>images/Asus.jpg</image> 
+			<manufacturer>Asus</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+                <accessory>LaptopCover</accessory> 
+            </accessories>
+        </Laptop>
+       		
+		<Laptop id="Lenovo">
+                        <name>Lenovo</name>
+                        <price>390</price>
+			<image>images/Lenovo.jpg</image> 
+			<manufacturer>Lenovo</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+                <accessory>LaptopCover</accessory> 
+            </accessories>
+        </Laptop>
+        
+		<Laptop id="MSI">
+                        <name>MSI</name>
+                        <price>420</price>
+			<image>images/MSI.jpg</image> 
+			<manufacturer>MSI</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+                <accessory>LaptopCover</accessory> 
+            </accessories>
+        </Laptop>
+		
+		<VoiceAssistant id="Amazon">
+            <name>Amazon</name>
+            <price>199</price>
+			<image>images/amazon.jpg</image> 
+			<manufacturer>Amazon</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Cable</accessory>
+			</accessories>
+        </VoiceAssistant>
+		
+		<VoiceAssistant id="GoogleHome">
+            <name>GoogleHome</name>
+            <price>359</price>
+			<image>images/googlehome.jpg</image> 
+			<manufacturer>GoogleHome</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Cable</accessory>
+			</accessories>
+        </VoiceAssistant>
+		
+		<VoiceAssistant id="LenovoAssistant">
+            <name>Lenovo Assistant</name>
+            <price>299</price>
+			<image>images/lenovohub.jpg</image> 
+			<manufacturer>Lenovo</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Cable</accessory>
+			</accessories>
+        </VoiceAssistant>
+		
+		<VoiceAssistant id="GoogleHub">
+            <name>Google Nest Hub</name>
+            <price>399</price>
+			<image>images/googlehub.jpg</image> 
+			<manufacturer>Google</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Cable</accessory>
+			</accessories>
+        </VoiceAssistant>
+		
+		<VoiceAssistant id="Sonos">
+            <name>Sonos</name>
+            <price>499</price>
+			<image>images/sonos.jpg</image> 
+			<manufacturer>Sonos</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Cable</accessory>
+			</accessories>
+        </VoiceAssistant>
+		 
+		<SmartWatch id="Moto360">
+                        <name>Moto360</name>
+                        <price>345</price>
+			<image>images/Moto360.jpg</image> 
+			<manufacturer>Moto360</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Belt</accessory>
+			</accessories>
+         </SmartWatch>
+		 
+		<SmartWatch id="Apple">
+                        <name>Apple</name>
+                        <price>900</price>
+			<image>images/Apple.jpg</image> 
+			<manufacturer>Apple</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Belt</accessory>
+			</accessories>
+                </SmartWatch>
+                <SmartWatch id="Huawei">
+                        <name>Huawei</name>
+                        <price>370</price>
+			<image>images/Huawei.jpg</image> 
+			<manufacturer>Huawei</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Belt</accessory>
+			</accessories>
+                </SmartWatch>
+            <SmartWatch id="Samsung">
+                        <name>Samsung</name>
+                        <price>755</price>
+			<image>images/Samsung.jpg</image> 
+			<manufacturer>Samsung</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Belt</accessory>
+			</accessories>
+                </SmartWatch>
+                <SmartWatch id="Pebble">
+                        <name>Pebble</name>
+                        <price>345</price>
+			<image>images/Pebble.jpg</image> 
+			<manufacturer>Pebble</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Belt</accessory>
+			</accessories>
+                </SmartWatch>
+
+		<FitnessWatch id="Appleseries3">
+            <name>AppleWatch</name>
+            <price>199.99</price>
+			<image>images/fitness1.jpg</image> 
+			<manufacturer>Apple</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Belt</accessory>
+			</accessories>
+         </FitnessWatch>
+		 
+		 <FitnessWatch id="SamsungGalaxy">
+            <name>SamsungWatch</name>
+            <price>199.99</price>
+			<image>images/fitness2.jpg</image> 
+			<manufacturer>Samsung</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Belt</accessory>
+			</accessories>
+         </FitnessWatch>
+		 
+		 <FitnessWatch id="Garmin">
+            <name>GarminWatch</name>
+            <price>110.99</price>
+			<image>images/fitness3.jpg</image> 
+			<manufacturer>Garmin</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Belt</accessory>
+			</accessories>
+         </FitnessWatch>
+		 
+		 <FitnessWatch id="Sunnato">
+            <name>SunnatoWatch</name>
+            <price>375.99</price>
+			<image>images/fitness4.jpg</image> 
+			<manufacturer>Sunnato</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Belt</accessory>
+			</accessories>
+         </FitnessWatch>
+		 
+		 <FitnessWatch id="Fitbit">
+            <name>Fitbit</name>
+            <price>34.99</price>
+			<image>images/fitbit.jpg</image> 
+			<manufacturer>Fitbit</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Belt</accessory>
+			</accessories>
+         </FitnessWatch>
+		 
+		<Headphone id="AKG">
+                        <name>AKG</name>
+                        <price>240</price>
+			<image>images/AKG.jpg</image> 
+			<manufacturer>AKG</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Cable</accessory>
+			</accessories>
+                 </Headphone>
+                 <Headphone id="Panasonic">
+                        <name>Panasonic</name>
+                        <price>510</price>
+			<image>images/Panasonic.jpg</image> 
+			<manufacturer>Panasonic</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Cable</accessory>
+			</accessories>
+                 </Headphone>
+                 <Headphone id="Ultrasone">
+                        <name>Ultrasone</name>
+                        <price>240</price>
+			<image>images/Ultrasone.jpg</image> 
+			<manufacturer>Ultrasone</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Cable</accessory>
+			</accessories>
+                 </Headphone>
+                 <Headphone id="Grado">
+                        <name>Grado</name>
+                        <price>570</price>
+			<image>images/Grado.jpg</image> 
+			<manufacturer>Grado</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Cable</accessory>
+			</accessories>
+                 </Headphone>
+                 <Headphone id="Pioneer">
+                        <name>Pioneer</name>
+                        <price>360</price>
+			<image>images/Pioneer.jpg</image> 
+			<manufacturer>Pioneer</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+			<accessories>
+				<accessory>Cable</accessory>
+			</accessories>
+                 </Headphone>
+
+		
+		<WirelessPlan id="tmobile1">
+			<name>BasicTmobile</name>
+			<price>30$ / Month</price>
+			<image>images/tmobile.jpg</image> 
+			<manufacturer>Tmobile</manufacturer> 
+		</WirelessPlan>
+		
+		<WirelessPlan id="sprint1">
+			<name>BasicSprint</name>
+			<price>20$ / Month</price>
+			<image>images/sprint.jpg</image> 
+			<manufacturer>Sprint</manufacturer> 
+		</WirelessPlan>
+		
+		<WirelessPlan id="tmobile2">
+			<name>PremiumTmobile</name>
+			<price>50$ / Month</price>
+			<image>images/tmobile.jpg</image> 
+			<manufacturer>Tmobile</manufacturer> 
+		</WirelessPlan>
+		
+		<WirelessPlan id="sprint2">
+			<name>PremiumSprint</name>
+			<price>35$ / Month</price>
+			<image>images/sprint.jpg</image> 
+			<manufacturer>Sprint</manufacturer> 
+		</WirelessPlan>
+		
+		<WirelessPlan id="tmobile3">
+			<name>UltimateTmobile </name>
+			<price>90$ / Month</price>
+			<image>images/tmobile.jpg</image> 
+			<manufacturer>Tmobile</manufacturer> 
+		</WirelessPlan>
+		
+		<WirelessPlan id="sprint3">
+			<name>Sprint(Ultimate)</name>
+			<price>80$ / Month</price>
+			<image>images/sprint.jpg</image> 
+			<manufacturer>Sprint</manufacturer> 
+		</WirelessPlan>
+		
+			
+		<AccessoriesCatalog id="accessory">
+            <name>LaptopCover</name>
+            <price>32.19</price>
+			<image>images/briefcase.jpg</image> 
+			<manufacturer>KEF</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+        </AccessoriesCatalog>
+		<AccessoriesCatalog id="accessory">
+            <name>RemoteControl</name>
+            <price>32.19</price>
+			<image>images/remote.jpg</image> 
+			<manufacturer>KEF</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+        </AccessoriesCatalog>
+		<AccessoriesCatalog id="accessory">
+            <name>ToolKit</name>
+            <price>75.19</price>
+			<image>images/toolkit.jpg</image> 
+			<manufacturer>KEF</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+        </AccessoriesCatalog>
+		<AccessoriesCatalog id="accessory">
+            <name>Belt</name>
+            <price>10.19</price>
+			<image>images/belt.jpg</image> 
+			<manufacturer>Fitbit</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+        </AccessoriesCatalog>
+		<AccessoriesCatalog id="accessory">
+            <name>Cable</name>
+            <price>12.19</price>
+			<image>images/cable.jpg</image> 
+			<manufacturer>garmin</manufacturer> 
+			<condition>New</condition> 
+			<discount>10.0</discount>
+        </AccessoriesCatalog>
+	</ConsoleCatalog>
+</ProductCatalog>
